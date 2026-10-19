@@ -1,0 +1,2 @@
+streamlit
+fastai==2.8.12
